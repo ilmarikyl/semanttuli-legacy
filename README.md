@@ -1,6 +1,6 @@
 # Semanttuli
 
-Available at [semanttuli.fly.dev](https://semanttuli.fly.dev/)
+Available at [semanttuli.fly.dev](https://semanttuli-legacy.fly.dev/)
 
 ---
 
