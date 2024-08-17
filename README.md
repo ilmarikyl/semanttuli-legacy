@@ -5,7 +5,7 @@
 * Repository: https://github.com/ilmarikyl/semanttuli
 * Live application: https://semanttuli.fly.dev
 
-This legacy version is still accessible at (semanttuli-legacy.fly.dev)[https://semanttuli-legacy.fly.dev].
+This legacy version is still accessible at https://semanttuli-legacy.fly.dev.
 
 ## Setup development
 
